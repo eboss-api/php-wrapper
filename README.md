@@ -19,8 +19,8 @@ Once approved EBOSS will supply you with an api username, api key, and brand id 
 
 Requirements
 ------------
-PHP 5.2+
-PHP-CURL extension
+PHP 5.3+
+PHP-CURL extension or file_get_contents() allowed for urls
 
 
 Authors
